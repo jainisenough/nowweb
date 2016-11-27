@@ -31,6 +31,6 @@
   "publishConfig": {
     "tag": "next"
   },
-  "license": "ISC",
+  "license": "MIT",
   "description": "nowweb"
 }
