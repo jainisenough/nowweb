@@ -31,6 +31,9 @@
   "publishConfig": {
     "tag": "next"
   },
+  "engines": {
+    "node": "6.9.1"
+  },
   "license": "MIT",
   "description": "nowweb"
 }
