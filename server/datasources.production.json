@@ -1,0 +1,33 @@
+{
+  "db": {
+    "host": "ds159767.mlab.com",
+    "port": 59767,
+    "database": "nowweb",
+    "user": "root",
+    "password": "toor",
+    "connector": "mongodb",
+    "allowExtendedOperators": true
+  },
+  "email": {
+    "name": "email",
+    "connector": "mail",
+    "transports": [
+      {
+        "type": "smtp",
+        "host": "smtp.1and1.com",
+        "secure": false,
+        "port": 587,
+        "tls": {
+          "rejectUnauthorized": false
+        },
+        "auth": {
+          "user": "akhilesh.jain@lmdconsulting.com",
+          "pass": "akhilesh123"
+        }
+      }
+    ],
+    "allowedSlug": [
+      "contact-us"
+    ]
+  }
+}
