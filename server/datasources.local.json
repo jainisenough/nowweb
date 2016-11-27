@@ -4,6 +4,8 @@
     "port": 27017,
     "database": "nowweb",
     "connector": "mongodb",
+    "user": "",
+    "password": "",
     "allowExtendedOperators": true
   },
   "email": {
