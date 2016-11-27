@@ -1,0 +1,22 @@
+{
+  "name": "Client",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "host": {
+      "type": "string",
+      "required": true
+    },
+    "allow": {
+      "type": "boolean",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
