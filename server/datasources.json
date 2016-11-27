@@ -1,0 +1,43 @@
+{
+  "db": {
+    "host": "192.168.1.105",
+    "port": 27017,
+    "url": "",
+    "database": "nowweb",
+    "name": "db",
+    "connector": "mongodb"
+  },
+  "email": {
+    "name": "email",
+    "connector": "mail",
+    "transports": [
+      {
+        "type": "smtp",
+        "host": "smtp.1and1.com",
+        "secure": false,
+        "port": 587,
+        "tls": {
+          "rejectUnauthorized": false
+        },
+        "auth": {
+          "user": "akhilesh.jain@lmdconsulting.com",
+          "pass": "akhilesh123"
+        }
+      }
+    ],
+    "allowedSlug": [
+      "contact-us"
+    ]
+  },
+  "file": {
+    "name": "file",
+    "connector": "loopback-component-storage",
+    "root": "./client/images",
+    "maxFileSize": "20971520",
+    "allowedContentTypes": [
+      "image/png",
+      "image/jpeg",
+      "image/jpg"
+    ]
+  }
+}
