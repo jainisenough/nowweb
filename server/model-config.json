@@ -14,7 +14,7 @@
     ]
   },
   "Client": {
-    "dataSource": "email",
+    "dataSource": "db",
     "public": true
   }
 }
