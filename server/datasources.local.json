@@ -1,10 +1,8 @@
 {
   "db": {
-    "host": "ds159767.mlab.com",
-    "port": 59767,
+    "host": "192.168.1.105",
+    "port": 27017,
     "database": "nowweb",
-    "username": "root",
-    "password": "toor",
     "connector": "mongodb",
     "allowExtendedOperators": true
   },
