@@ -1,12 +1,4 @@
 {
-  "db": {
-    "host": "192.168.1.105",
-    "port": 27017,
-    "url": "",
-    "database": "nowweb",
-    "name": "db",
-    "connector": "mongodb"
-  },
   "email": {
     "name": "email",
     "connector": "mail",
