@@ -13,10 +13,6 @@
       "./mixins"
     ]
   },
-  "Container": {
-    "dataSource": "file",
-    "public": true
-  },
   "Client": {
     "dataSource": "email",
     "public": true
