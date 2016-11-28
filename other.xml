@@ -1,0 +1,5 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Bitnami/meanstack-3.0.6-0/nodejs/node.exe" />
+  </component>
+</application>
