@@ -1,5 +1,7 @@
 <application>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="C:/Bitnami/meanstack-3.0.6-0/nodejs/node.exe" />
+    <local-interpreter path="C:/Bitnami/meanstack-3.0.6-0/nodejs/node.exe">
+      <version-cache version="5.11.1" last-modified="1462465040000" />
+    </local-interpreter>
   </component>
 </application>
