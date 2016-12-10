@@ -1,4 +1,20 @@
 <application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="C:/Bitnami/meanstack-3.0.6-0/nodejs/node.exe">
       <version-cache version="5.11.1" last-modified="1462465040000" />
