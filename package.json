@@ -4,6 +4,7 @@
   "main": "server/server.js",
   "scripts": {
     "lint": "eslint .",
+    "prestart": "npm i",
     "start": "node .",
     "posttest": "npm run lint && nsp check"
   },
