@@ -2,7 +2,6 @@
 
 var loopback = require('loopback');
 var boot = require('loopback-boot');
-var le = require('loopback-component-explorers');
 
 var app = module.exports = loopback();
 
