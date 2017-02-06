@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/jainisenough/townhouse.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jainisenough/sharp-image.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Bitnami\meanstack-3.0.6-0\project" />
