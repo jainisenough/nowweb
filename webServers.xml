@@ -9,14 +9,6 @@
           <option name="port" value="2299" />
         </fileTransfer>
       </webServer>
-      <webServer id="c0e8d08f-c22c-43d2-861c-2702478aedf4" name="FreeHostia" url="http://162.210.102.210">
-        <fileTransfer host="162.210.102.210" port="21" password="df9adf9edf9fdf93df92df9edf9a" username="goosea1">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
