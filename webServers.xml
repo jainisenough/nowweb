@@ -9,6 +9,14 @@
           <option name="port" value="2299" />
         </fileTransfer>
       </webServer>
+      <webServer id="05fc561f-e97c-44a9-ac0d-0a6d5f87517a" name="Server 189" url="http://50.251.113.189">
+        <fileTransfer host="50.251.113.189" port="2299" rootFolder="/home/www" accessType="SFTP" password="dffddfd9dfe5dfcbdfecdf9ddfd3dfe6" username="rgupta">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2299" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
